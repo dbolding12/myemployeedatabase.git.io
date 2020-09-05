@@ -1,3 +1,11 @@
+## Project Overview 
+In this project we used mysql to create a schema and table structures. Once these were created we input data using sql statements to populate the table. Using enquirer, node, console.table, and sql statements, we were able to create logic to display the results queried by the functions to display the results using CML. 
+
+Github Repo:https://github.com/dbolding12/myemployeedatabase.git.io
+
+Video Walkthrough:
+[![Watch the video](image.png)](https://youtu.be/jADF8RMVFp8)
+
 # Unit 12 MySQL Homework: Employee Tracker
 
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as **C**ontent **M**anagement **S**ystems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
